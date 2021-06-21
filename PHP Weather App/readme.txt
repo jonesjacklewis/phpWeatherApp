@@ -1,3 +1,5 @@
+https://phpweatherapp.herokuapp.com/index.php
+
 To allow the project to work, in config/config.php replace the place holder text (**APIKEY**) with your api key from openweathermap.org
 
 i.e. the line should be change from
